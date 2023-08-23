@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **I am a highly skilled and enthusiastic Java Developer who is seeking for Full-Time Opportumity. My experience includes developing websites and apps. I am skilled in JSP,Tomcat Apache, CSS, SQL, HTML, and more.**
+- 💬 Ask me about **I am a highly skilled and enthusiastic Java Developer who is seeking for Full-Time Opportunity. My experience includes developing websites and apps. I am skilled in JSP,Tomcat Apache, CSS, SQL, HTML, and more.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
