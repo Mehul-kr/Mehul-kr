@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DSA+CP**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Android-->Dart**
 
 - 💬 Ask me about **I am a highly skilled and enthusiastic Java Developer who is seeking for Full-Time Opportunity. My experience includes developing websites and apps. I am skilled in JSP,Tomcat Apache, CSS, SQL, HTML, and more.**
 
