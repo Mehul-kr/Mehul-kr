@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android-->Dart**
 
-- 💬 Ask me about **I am a highly skilled and enthusiastic Android Developer who is seeking for Full-Time Opportunity. My experience include apps. I am skilled in Flutter, Dart, and more.**
+- 💬 Ask me about **I am a highly skilled and enthusiastic Android Developer who is seeking for Full-Time Opportunity. My experience include apps. I am skilled in Flutter, Dart, and many more.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
